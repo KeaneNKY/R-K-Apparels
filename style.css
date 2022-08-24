@@ -1,0 +1,1415 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.mediaViewInfo {
+	--web-view-name: Login Page – 2;
+	--web-view-id: Login_Page__2;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Login_Page__2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+}
+#Login_Page__2 {
+	position: absolute;
+	width: 1349px;
+	height: 4191px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Login Page – 2;
+	--web-view-id: Login_Page__2;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_2147 {
+	opacity: 0.205;
+	fill: rgba(154,126,97,1);
+}
+.Rectangle_2147 {
+	position: absolute;
+	overflow: visible;
+	width: 1385px;
+	height: 86px;
+	left: -9px;
+	top: 63px;
+}
+#Men_ {
+	left: 427px;
+	top: 96px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	height: 173px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Login_Page___3.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Brother 1816 Printed;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	text-decoration: none;
+}
+#Women_ {
+	left: 551px;
+	top: 96px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	height: 173px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Login_Page___4.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Brother 1816 Printed;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Kids_ {
+	left: 683px;
+	top: 96px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	height: 173px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Login_Page___5.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Brother 1816 Printed;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Sale_ {
+	left: 809px;
+	top: 96px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	height: 173px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Login_Page___6.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Brother 1816 Printed;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Log_in_ {
+	left: 1244px;
+	top: 98px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	height: 173px;
+	text-align: left;
+	font-family: Brother 1816 Printed;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#DunkIt_MultiComp_Clean_hd_1600 {
+	position: absolute;
+	width: 900px;
+	height: 408px;
+	left: 233px;
+	top: 149px;
+	overflow: visible;
+}
+#Rectangle_2150 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 0.4000000059604645px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2150 {
+	position: absolute;
+	overflow: visible;
+	width: 181.314px;
+	height: 32.614px;
+	left: 890px;
+	top: 89.693px;
+}
+#Search {
+	left: 931px;
+	top: 100.5px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(169,169,169,1);
+}
+#Rectangle_2151 {
+	fill: rgba(159,159,159,1);
+}
+.Rectangle_2151 {
+	position: absolute;
+	overflow: visible;
+	width: 33px;
+	height: 32.614px;
+	left: 890px;
+	top: 89.693px;
+}
+#My_project {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 894px;
+	top: 91.307px;
+	overflow: visible;
+}
+#Scroll_Group_1 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1366px;
+	height: 189px;
+	left: 60px;
+	top: 557px;
+	overflow: hidden;
+}
+#Group_3230 {
+	position: absolute;
+	width: 199px;
+	height: 189px;
+	left: 37px;
+	top: 0px;
+	overflow: visible;
+}
+#n_d7536aebf9e1a1abc5a0ff228492 {
+	position: absolute;
+	width: 199px;
+	height: 158px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#adidas_Yeezy_Foam_RNNR {
+	left: 2px;
+	top: 152px;
+	position: absolute;
+	overflow: visible;
+	width: 188px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#n_77 {
+	left: 2px;
+	top: 172px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#e117affe81f0f634575b39a68aec75 {
+	position: absolute;
+	width: 169px;
+	height: 105px;
+	left: 349px;
+	top: 49px;
+	overflow: visible;
+}
+#adidas_Yeezy_Boost_350_V {
+	left: 349px;
+	top: 148px;
+	position: absolute;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#n_49 {
+	left: 349px;
+	top: 168px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_235b4cdeb6ce29f3e7581bafceed {
+	position: absolute;
+	width: 201px;
+	height: 91px;
+	left: 674px;
+	top: 57px;
+	overflow: visible;
+}
+#adidas_Yeezy_500_Clay_Bro {
+	left: 674px;
+	top: 148px;
+	position: absolute;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#n_90 {
+	left: 674px;
+	top: 168px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_0e7509d3c6678cebc5d4029b0519 {
+	position: absolute;
+	width: 225px;
+	height: 129px;
+	left: 986px;
+	top: 19px;
+	overflow: visible;
+}
+#adidas_Yeezy_Slide_Glow_G {
+	left: 990px;
+	top: 148px;
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#n_77_bc {
+	left: 990px;
+	top: 168px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#ebac8a39c604622c028d0a91b9b6e4 {
+	position: absolute;
+	width: 289px;
+	height: 129px;
+	left: 1281px;
+	top: 19px;
+	overflow: visible;
+}
+#adidas_Yeezy_Boost_700_M {
+	left: 1302px;
+	top: 148px;
+	position: absolute;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#n_70 {
+	left: 1302px;
+	top: 168px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#jordan1 {
+	position: absolute;
+	width: 1026px;
+	height: 323px;
+	left: 200px;
+	top: 807px;
+	overflow: visible;
+}
+#SHOP_JORDAN_1s {
+	left: 443px;
+	top: 992px;
+	position: absolute;
+	overflow: visible;
+	width: 507px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 59px;
+	color: rgba(255,255,255,1);
+}
+#GO_OUTSIDE_TOGETHER {
+	left: 313px;
+	top: 2103px;
+	position: absolute;
+	overflow: visible;
+	width: 670px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 59px;
+	color: rgba(0,0,0,1);
+}
+#Rock_it_out {
+	left: 109px;
+	top: 2485px;
+	position: absolute;
+	overflow: visible;
+	width: 205px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Group_3234 {
+	position: absolute;
+	width: 258.693px;
+	height: 64.052px;
+	left: 77.307px;
+	top: 70.974px;
+	overflow: visible;
+	
+}
+#d74b502b-60d2-4aa0-9466-95d563 {
+	position: absolute;
+	width: 181.707px;
+	height: 30.497px;
+	left: 76.986px;
+	top: 16.777px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(0,0,0,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 181.707px;
+	height: 30.497px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#fae4c06b-faff-4ec5-bd0a-fadb98 {
+	position: absolute;
+	width: 64.458px;
+	height: 64.052px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_2 {
+	fill: rgba(0,0,0,1);
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 64.457px;
+	height: 64.052px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#shopping-cart {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 1176px;
+	top: 91px;
+	overflow: visible;
+}
+#Rectangle_2152 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2152 {
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	height: 25px;
+	left: 1228px;
+	top: 91px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Login_Page.html;
+	cursor: pointer;
+}
+#In_this_sunny_weather_RK_is_gi {
+	left: 250px;
+	top: 2179px;
+	position: absolute;
+	overflow: visible;
+	width: 811px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Book Antiqua;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_2157 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2157 {
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 48px;
+	left: 615px;
+	top: 2265px;
+}
+#Shop_Now {
+	left: 620px;
+	top: 2277px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	height: 27px;
+	text-align: left;
+	font-family: Book Antiqua;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#woman-hiking-at-red-rock-canyo {
+	position: absolute;
+	width: 427px;
+	height: 407px;
+	left: 40px;
+	top: 1190px;
+	overflow: visible;
+}
+#photo-1533240332313-0db49b459a {
+	position: absolute;
+	width: 427px;
+	height: 407px;
+	left: 483px;
+	top: 1190px;
+	overflow: visible;
+}
+#nike-just-do-it {
+	position: absolute;
+	width: 427px;
+	height: 407px;
+	left: 154px;
+	top: 1653px;
+	overflow: visible;
+}
+#images_1 {
+	position: absolute;
+	width: 427px;
+	height: 407px;
+	left: 736px;
+	top: 1653px;
+	overflow: visible;
+}
+#n_60x0 {
+	position: absolute;
+	width: 427px;
+	height: 407px;
+	left: 926px;
+	top: 1170px;
+	overflow: visible;
+}
+#Rectangle_2159 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2159 {
+	position: absolute;
+	overflow: visible;
+	width: 1620px;
+	height: 492px;
+	left: -127px;
+	top: 3792px;
+}
+#About_RK {
+	left: 706px;
+	top: 3838px;
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#GET_HELP {
+	left: 397px;
+	top: 3838px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Order_Status {
+	left: 397px;
+	top: 3883px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(144,144,144,1);
+}
+#News {
+	left: 706px;
+	top: 3883px;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(144,144,144,1);
+}
+#Delivery {
+	left: 397px;
+	top: 3921px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(144,144,144,1);
+}
+#Returns {
+	left: 397px;
+	top: 3959px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(144,144,144,1);
+}
+#Payment_Options {
+	left: 397px;
+	top: 3997px;
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(144,144,144,1);
+}
+#Contact_Us {
+	left: 397px;
+	top: 4035px;
+	position: absolute;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(144,144,144,1);
+}
+#BECOME_A_MEMBER {
+	left: 91px;
+	top: 3838px;
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#SIGN_UP_FOR_EMAIL {
+	left: 91px;
+	top: 3903px;
+	position: absolute;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#SEND_FEEDBACK {
+	left: 91px;
+	top: 3968px;
+	position: absolute;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#STUDENT_DISCOUNT {
+	left: 91px;
+	top: 4033px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Social_Media_Icons {
+	position: absolute;
+	width: 163.464px;
+	height: 27.264px;
+	left: 1097.8px;
+	top: 3849px;
+	overflow: visible;
+}
+#n_14-instagram {
+	position: absolute;
+	width: 27.264px;
+	height: 27.264px;
+	left: 136.2px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_7 {
+	fill: rgba(255,255,255,1);
+}
+.Path_7 {
+	overflow: visible;
+	position: absolute;
+	width: 27.264px;
+	height: 27.264px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_8 {
+	fill: rgba(255,255,255,1);
+}
+.Path_8 {
+	overflow: visible;
+	position: absolute;
+	width: 14.909px;
+	height: 14.91px;
+	left: 6.178px;
+	top: 6.177px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_9 {
+	fill: rgba(255,255,255,1);
+}
+.Path_9 {
+	overflow: visible;
+	position: absolute;
+	width: 4.406px;
+	height: 4.406px;
+	left: 19.063px;
+	top: 3.53px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_13-facebook {
+	fill: rgba(255,255,255,1);
+}
+.n_13-facebook {
+	overflow: visible;
+	position: absolute;
+	width: 15.475px;
+	height: 27.264px;
+	left: 75.2px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_04-twitter {
+	fill: rgba(255,255,255,1);
+}
+.n_04-twitter {
+	overflow: visible;
+	position: absolute;
+	width: 29.675px;
+	height: 24.5px;
+	left: 0px;
+	top: 2.764px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Scroll_Group_2 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1400px;
+	height: 400px;
+	left: 0px;
+	top: 2570px;
+	overflow: hidden;
+	margin-left: -80px;
+}
+#ab7a7e27da256782eabe5cc8f23020 {
+	position: absolute;
+	width: 306px;
+	height: 344px;
+	left: 117px;
+	top: 0px;
+	overflow: visible;
+}
+#Jordan_1_Retro_High_Travis {
+	left: 117px;
+	top: 348px;
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#n_300 {
+	left: 117px;
+	top: 368px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_79a4847752c7bd5884d4d148b0ba {
+	position: absolute;
+	width: 444px;
+	height: 344px;
+	left: 553px;
+	top: 0px;
+	overflow: visible;
+}
+#Jordan_1_Retro_AJKO_Storm {
+	left: 553px;
+	top: 348px;
+	position: absolute;
+	overflow: visible;
+	width: 202px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#n_30_ {
+	left: 553px;
+	top: 366px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#f822a37abf5ffbfb09482938004a64 {
+	position: absolute;
+	width: 354px;
+	height: 344px;
+	left: 1075px;
+	top: 0px;
+	overflow: visible;
+}
+#Jordan_1_Low_Starfish {
+	left: 1075px;
+	top: 348px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#n_95 {
+	left: 1075px;
+	top: 372px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#adidas-3 {
+	position: absolute;
+	width: 1116px;
+	height: 603px;
+	left: 145px;
+	top: 3092px;
+	overflow: visible;
+}
+#BRING__BACK__THE__CLASSICS {
+	left: 165px;
+	top: 3132px;
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 41px;
+	color: rgba(255,175,175,1);
+}
+#Rectangle_2160 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2160 {
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 64px;
+	left: 585px;
+	top: 3608px;
+}
+#Shop_Now_cw {
+	left: 630px;
+	top: 3628px;
+	position: absolute;
+	overflow: visible;
+	width: 332px;
+	height: 112px;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,175,175,1);
+}
+
+.shopbtn{
+	color: rgba(255,175,175,1);
+}
+
+.shopbtn:hover{
+	color: yellow;
+}
+
+.shopbtn1{
+	color: white;
+}
+
+.shopbtn1:hover{
+	color: yellow;
+}
+
+.Search1{
+	height: 30px;
+	width: 140px;
+	margin-top: -9px;
+	margin-left: -5px;
+	border: none;
+	border-radius: 20px;
+	border-color: white;
+
+	
+}
+
+
+
+/**/
+/* width */
+::-webkit-scrollbar {
+	width: 15px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+	box-shadow: inset 0 0 5px grey; 
+	/* border-radius: 10px; */
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+	background: rgb(0, 0, 0); 
+	/* border-radius: 10px; */
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+	background: #ff0066; 
+  }
+
+
+
+  /*Media Queries*/
+
+  
+/*=============== BREAKPOINTS ===============*/
+/* For small devices *//**For medium devices*/ /*For Large devices*/
+@media only screen and (min-device-width: 320px) and (max-device-width: 710px){
+
+	#d74b502b-60d2-4aa0-9466-95d563{
+		
+	}
+
+	#DunkIt_MultiComp_Clean_hd_1600{
+		width: 230px;
+		height: 150px;
+		margin-left: -100px;
+	}
+
+	#n_d7536aebf9e1a1abc5a0ff228492{
+		
+	}
+
+	#e117affe81f0f634575b39a68aec75{
+
+	}
+
+	#n_235b4cdeb6ce29f3e7581bafceed{
+
+	}
+
+	#n_0e7509d3c6678cebc5d4029b0519{
+
+	}
+
+	#jordan1{
+		width: 250px;
+		height: 150px;
+		margin-left: -140px;
+	}
+
+	#woman-hiking-at-red-rock-canyo{
+		width: 150px;
+		height: 150px;
+		margin-left: -30px;
+	}
+
+	#photo-1533240332313-0db49b459a{
+		width: 150px;
+		height: 150px;
+		margin-left: -290px;
+	}
+
+
+	#images_1{
+		width: 150px;
+		height: 150px;
+		margin-left: -520px;
+	}
+
+	#nike-just-do-it{
+		width: 150px;
+		height: 150px;
+		margin-left: -130px;
+	}
+
+
+	#In_this_sunny_weather_RK_is_gi{
+		margin-left: -250px;
+		font-size: 10px;
+	}
+
+
+	#GO_OUTSIDE_TOGETHER{
+		margin-left: -250px;
+		font-size: 20px;
+	}
+
+	.Rectangle_2157{
+		margin-left: -485px;
+	}
+
+	#Shop_Now{
+		margin-left: -485px;
+	}
+
+	#adidas-3{
+		width: 350px;
+		height: 350px;
+		margin-left: -130px;
+	}
+
+	#BRING__BACK__THE__CLASSICS{
+		width: 450px;
+		height: 450px;
+		margin-left: -130px;
+		font-size: 20PX;
+	}
+
+	.Rectangle_2160{
+		margin-left: -485px;
+	}
+
+	#Shop_Now_cw{
+		margin-left: -485px;
+	}
+
+
+ }
+ 
+ @media only screen and (min-device-width: 720px) and (max-device-width: 1280px){
+	
+	#d74b502b-60d2-4aa0-9466-95d563{
+		
+	}
+
+	#DunkIt_MultiComp_Clean_hd_1600{
+		width: 230px;
+		height: 150px;
+		margin-left: -100px;
+	}
+
+	#n_d7536aebf9e1a1abc5a0ff228492{
+		
+	}
+
+	#e117affe81f0f634575b39a68aec75{
+
+	}
+
+	#n_235b4cdeb6ce29f3e7581bafceed{
+
+	}
+
+	#n_0e7509d3c6678cebc5d4029b0519{
+
+	}
+
+	#jordan1{
+		width: 250px;
+		height: 150px;
+		margin-left: -140px;
+	}
+
+	#woman-hiking-at-red-rock-canyo{
+		width: 150px;
+		height: 150px;
+		margin-left: -30px;
+	}
+
+	#photo-1533240332313-0db49b459a{
+		width: 150px;
+		height: 150px;
+		margin-left: -290px;
+	}
+
+
+	#images_1{
+		width: 150px;
+		height: 150px;
+		margin-left: -520px;
+	}
+
+	#nike-just-do-it{
+		width: 150px;
+		height: 150px;
+		margin-left: -130px;
+	}
+
+
+	#In_this_sunny_weather_RK_is_gi{
+		margin-left: -250px;
+		font-size: 10px;
+	}
+
+
+	#GO_OUTSIDE_TOGETHER{
+		margin-left: -250px;
+		font-size: 20px;
+	}
+
+	.Rectangle_2157{
+		margin-left: -485px;
+	}
+
+	#Shop_Now{
+		margin-left: -485px;
+	}
+
+	#adidas-3{
+		width: 350px;
+		height: 350px;
+		margin-left: -130px;
+	}
+
+	#BRING__BACK__THE__CLASSICS{
+		width: 450px;
+		height: 450px;
+		margin-left: -130px;
+		font-size: 20PX;
+	}
+
+	.Rectangle_2160{
+		margin-left: -485px;
+	}
+
+	#Shop_Now_cw{
+		margin-left: -485px;
+	}
+	
+	.Rectangle_2159{
+		width: 200px;
+	}
+	
+	   
+ }
+ 
+ 
+ @media only screen and (min-device-width: 280px) and (max-device-width: 653px){
+	#d74b502b-60d2-4aa0-9466-95d563{
+		
+	}
+
+	#DunkIt_MultiComp_Clean_hd_1600{
+		width: 230px;
+		height: 150px;
+		margin-left: -100px;
+	}
+
+	#n_d7536aebf9e1a1abc5a0ff228492{
+		
+	}
+
+	#e117affe81f0f634575b39a68aec75{
+
+	}
+
+	#n_235b4cdeb6ce29f3e7581bafceed{
+
+	}
+
+	#n_0e7509d3c6678cebc5d4029b0519{
+
+	}
+
+	#jordan1{
+		width: 250px;
+		height: 150px;
+		margin-left: -140px;
+	}
+
+	#woman-hiking-at-red-rock-canyo{
+		width: 150px;
+		height: 150px;
+		margin-left: -30px;
+	}
+
+	#photo-1533240332313-0db49b459a{
+		width: 150px;
+		height: 150px;
+		margin-left: -290px;
+	}
+
+
+	#images_1{
+		width: 150px;
+		height: 150px;
+		margin-left: -520px;
+	}
+
+	#nike-just-do-it{
+		width: 150px;
+		height: 150px;
+		margin-left: -130px;
+	}
+
+
+	#In_this_sunny_weather_RK_is_gi{
+		margin-left: -250px;
+		font-size: 10px;
+	}
+
+
+	#GO_OUTSIDE_TOGETHER{
+		margin-left: -250px;
+		font-size: 20px;
+	}
+
+	.Rectangle_2157{
+		margin-left: -485px;
+	}
+
+	#Shop_Now{
+		margin-left: -485px;
+	}
+
+	#adidas-3{
+		width: 350px;
+		height: 350px;
+		margin-left: -130px;
+	}
+
+	#BRING__BACK__THE__CLASSICS{
+		width: 450px;
+		height: 450px;
+		margin-left: -130px;
+		font-size: 20PX;
+	}
+
+	.Rectangle_2160{
+		margin-left: -485px;
+	}
+
+	#Shop_Now_cw{
+		margin-left: -485px;
+	}
+
+	.Rectangle_2159{
+		width: 200px;
+	}
+	
+ }
+ 
+ 

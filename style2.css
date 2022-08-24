@@ -1,0 +1,5031 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.mediaViewInfo {
+	--web-view-name: Login Page – 3;
+	--web-view-id: Login_Page__3;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Login_Page__3;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+}
+#Login_Page__3 {
+	position: absolute;
+	width: 1349px;
+	height: 4191px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Login Page – 3;
+	--web-view-id: Login_Page__3;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_2147 {
+	opacity: 0.205;
+	fill: rgba(154,126,97,1);
+}
+.Rectangle_2147 {
+	position: absolute;
+	overflow: visible;
+	width: 1385px;
+	height: 86px;
+	left: -9px;
+	top: 63px;
+}
+
+
+#Men_ {
+	left: 427px;
+	top: 96px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	height: 173px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Login_Page___3.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Brother 1816 Printed;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Men__q {
+	left: 427px;
+	top: 96px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	height: 173px;
+	text-align: left;
+	font-family: Brother 1816 Printed;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Men__q {
+	left: 427px;
+	top: 96px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	height: 173px;
+	text-align: left;
+	font-family: Brother 1816 Printed;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Men_357__ {
+	left: 61px;
+	top: 210px;
+	position: absolute;
+	overflow: visible;
+	width: 231px;
+	height: 173px;
+	text-align: left;
+	font-family: Franklin Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Women_ {
+	left: 551px;
+	top: 96px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	height: 173px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Login_Page___4.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Brother 1816 Printed;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Kids_ {
+	left: 683px;
+	top: 96px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	height: 173px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Login_Page___5.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Brother 1816 Printed;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Sale_ {
+	left: 809px;
+	top: 96px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	height: 173px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Login_Page___6.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Brother 1816 Printed;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Log_in_ {
+	left: 1244px;
+	top: 98px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	height: 173px;
+	text-align: left;
+	font-family: Brother 1816 Printed;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_2150 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 0.4000000059604645px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2150 {
+	position: absolute;
+	overflow: visible;
+	width: 181.314px;
+	height: 32.614px;
+	left: 890px;
+	top: 89.693px;
+}
+#Search {
+	left: 931px;
+	top: 100.5px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(169,169,169,1);
+}
+#Rectangle_2151 {
+	fill: rgba(159,159,159,1);
+}
+.Rectangle_2151 {
+	position: absolute;
+	overflow: visible;
+	width: 33px;
+	height: 32.614px;
+	left: 890px;
+	top: 89.693px;
+}
+#My_project {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 894px;
+	top: 91.307px;
+	overflow: visible;
+}
+#Group_3234 {
+	position: absolute;
+	width: 258.693px;
+	height: 64.052px;
+	left: 77.307px;
+	top: 70.974px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Login_Page___2.html;
+	cursor: pointer;
+}
+#d74b502b-60d2-4aa0-9466-95d563 {
+	position: absolute;
+	width: 181.707px;
+	height: 30.497px;
+	left: 76.986px;
+	top: 16.777px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(0,0,0,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 181.707px;
+	height: 30.497px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#fae4c06b-faff-4ec5-bd0a-fadb98 {
+	position: absolute;
+	width: 64.458px;
+	height: 64.052px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_2 {
+	fill: rgba(0,0,0,1);
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 64.457px;
+	height: 64.052px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#shopping-cart {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 1176px;
+	top: 91px;
+	overflow: visible;
+}
+#Rectangle_2152 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2152 {
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	height: 25px;
+	left: 1228px;
+	top: 91px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Login_Page.html;
+	cursor: pointer;
+}
+#Rectangle_2159 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2159 {
+	position: absolute;
+	overflow: visible;
+	width: 1620px;
+	height: 492px;
+	left: -127px;
+	top: 3792px;
+}
+#About_RK {
+	left: 706px;
+	top: 3838px;
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#GET_HELP {
+	left: 397px;
+	top: 3838px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Order_Status {
+	left: 397px;
+	top: 3883px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(144,144,144,1);
+}
+#News {
+	left: 706px;
+	top: 3883px;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(144,144,144,1);
+}
+#Delivery {
+	left: 397px;
+	top: 3921px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(144,144,144,1);
+}
+#Returns {
+	left: 397px;
+	top: 3959px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(144,144,144,1);
+}
+#Payment_Options {
+	left: 397px;
+	top: 3997px;
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(144,144,144,1);
+}
+#Contact_Us {
+	left: 397px;
+	top: 4035px;
+	position: absolute;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(144,144,144,1);
+}
+#BECOME_A_MEMBER {
+	left: 91px;
+	top: 3838px;
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#SIGN_UP_FOR_EMAIL {
+	left: 91px;
+	top: 3903px;
+	position: absolute;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#SEND_FEEDBACK {
+	left: 91px;
+	top: 3968px;
+	position: absolute;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#STUDENT_DISCOUNT {
+	left: 91px;
+	top: 4033px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Social_Media_Icons {
+	position: absolute;
+	width: 163.464px;
+	height: 27.264px;
+	left: 1097.8px;
+	top: 3849px;
+	overflow: visible;
+}
+#n_14-instagram {
+	position: absolute;
+	width: 27.264px;
+	height: 27.264px;
+	left: 136.2px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_7 {
+	fill: rgba(255,255,255,1);
+}
+.Path_7 {
+	overflow: visible;
+	position: absolute;
+	width: 27.264px;
+	height: 27.264px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_8 {
+	fill: rgba(255,255,255,1);
+}
+.Path_8 {
+	overflow: visible;
+	position: absolute;
+	width: 14.909px;
+	height: 14.91px;
+	left: 6.178px;
+	top: 6.177px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_9 {
+	fill: rgba(255,255,255,1);
+}
+.Path_9 {
+	overflow: visible;
+	position: absolute;
+	width: 4.406px;
+	height: 4.406px;
+	left: 19.063px;
+	top: 3.53px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_13-facebook {
+	fill: rgba(255,255,255,1);
+}
+.n_13-facebook {
+	overflow: visible;
+	position: absolute;
+	width: 15.475px;
+	height: 27.264px;
+	left: 75.2px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_04-twitter {
+	fill: rgba(255,255,255,1);
+}
+.n_04-twitter {
+	overflow: visible;
+	position: absolute;
+	width: 29.675px;
+	height: 24.5px;
+	left: 0px;
+	top: 2.764px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_07f5dd77fe14c2e23f3855c38e44 {
+	position: absolute;
+	width: 234px;
+	height: 183px;
+	left: 414px;
+	top: 216px;
+	overflow: visible;
+}
+#n_07f5dd77fe14c2e23f3855c38e44_bs {
+	position: absolute;
+	width: 234px;
+	height: 183px;
+	left: 414px;
+	top: 899px;
+	overflow: visible;
+}
+#n_07f5dd77fe14c2e23f3855c38e44_bt {
+	position: absolute;
+	width: 234px;
+	height: 183px;
+	left: 414px;
+	top: 1611px;
+	overflow: visible;
+}
+#n_07f5dd77fe14c2e23f3855c38e44_bu {
+	position: absolute;
+	width: 234px;
+	height: 183px;
+	left: 414px;
+	top: 2336px;
+	overflow: visible;
+}
+#n_07f5dd77fe14c2e23f3855c38e44_bv {
+	position: absolute;
+	width: 234px;
+	height: 183px;
+	left: 414px;
+	top: 3048px;
+	overflow: visible;
+}
+#Jordan_1_Retro_High_OG_Pr {
+	left: 420px;
+	top: 394px;
+	position: absolute;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Retro_High_OG_Pr_bx {
+	left: 420px;
+	top: 1077px;
+	position: absolute;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Retro_High_OG_Pr_by {
+	left: 420px;
+	top: 1789px;
+	position: absolute;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Retro_High_OG_Pr_bz {
+	left: 420px;
+	top: 2514px;
+	position: absolute;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Retro_High_OG_Pr_b {
+	left: 420px;
+	top: 3226px;
+	position: absolute;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Text {
+	left: 443px;
+	top: 404px;
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 7px;
+	color: rgba(0,0,0,1);
+}
+#Text_b {
+	left: 443px;
+	top: 1087px;
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 7px;
+	color: rgba(0,0,0,1);
+}
+#Text_ca {
+	left: 443px;
+	top: 1799px;
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 7px;
+	color: rgba(0,0,0,1);
+}
+#Text_cb {
+	left: 443px;
+	top: 2524px;
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 7px;
+	color: rgba(0,0,0,1);
+}
+#Text_cc {
+	left: 443px;
+	top: 3236px;
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 7px;
+	color: rgba(0,0,0,1);
+}
+#n_76 {
+	left: 420px;
+	top: 414px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_76_b {
+	left: 420px;
+	top: 1097px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_76_ca {
+	left: 420px;
+	top: 1809px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_76_cb {
+	left: 420px;
+	top: 2534px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_76_cc {
+	left: 420px;
+	top: 3246px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_9783f4c04a6cfe5833437361db9d {
+	position: absolute;
+	width: 242px;
+	height: 159px;
+	left: 730px;
+	top: 246px;
+	overflow: visible;
+}
+#n_9783f4c04a6cfe5833437361db9d_cc {
+	position: absolute;
+	width: 242px;
+	height: 159px;
+	left: 730px;
+	top: 929px;
+	overflow: visible;
+}
+#n_9783f4c04a6cfe5833437361db9d_cd {
+	position: absolute;
+	width: 242px;
+	height: 159px;
+	left: 730px;
+	top: 1641px;
+	overflow: visible;
+}
+#n_9783f4c04a6cfe5833437361db9d_ce {
+	position: absolute;
+	width: 242px;
+	height: 159px;
+	left: 730px;
+	top: 2366px;
+	overflow: visible;
+}
+#n_9783f4c04a6cfe5833437361db9d_cf {
+	position: absolute;
+	width: 242px;
+	height: 159px;
+	left: 730px;
+	top: 3078px;
+	overflow: visible;
+}
+#Jordan_1_Retro_High_White {
+	left: 738px;
+	top: 394px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Retro_High_White_ch {
+	left: 738px;
+	top: 1077px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Retro_High_White_ci {
+	left: 738px;
+	top: 1789px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Retro_High_White_cj {
+	left: 738px;
+	top: 2514px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Retro_High_White_ck {
+	left: 738px;
+	top: 3226px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#n_95 {
+	left: 738px;
+	top: 414px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_95_cm {
+	left: 738px;
+	top: 1097px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_95_cn {
+	left: 738px;
+	top: 1809px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_95_co {
+	left: 738px;
+	top: 2534px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_95_cp {
+	left: 738px;
+	top: 3246px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#f822a37abf5ffbfb09482938004a64 {
+	position: absolute;
+	width: 232px;
+	height: 159px;
+	left: 1044px;
+	top: 235px;
+	overflow: visible;
+}
+#f822a37abf5ffbfb09482938004a64_cr {
+	position: absolute;
+	width: 232px;
+	height: 159px;
+	left: 1044px;
+	top: 918px;
+	overflow: visible;
+}
+#f822a37abf5ffbfb09482938004a64_cs {
+	position: absolute;
+	width: 232px;
+	height: 159px;
+	left: 1044px;
+	top: 1630px;
+	overflow: visible;
+}
+#f822a37abf5ffbfb09482938004a64_ct {
+	position: absolute;
+	width: 232px;
+	height: 159px;
+	left: 1044px;
+	top: 2355px;
+	overflow: visible;
+}
+#f822a37abf5ffbfb09482938004a64_cu {
+	position: absolute;
+	width: 232px;
+	height: 159px;
+	left: 1044px;
+	top: 3067px;
+	overflow: visible;
+}
+#Jordan_1_Low_Starfish {
+	left: 1044px;
+	top: 393px;
+	position: absolute;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Low_Starfish_cw {
+	left: 1044px;
+	top: 1076px;
+	position: absolute;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Low_Starfish_cx {
+	left: 1044px;
+	top: 1788px;
+	position: absolute;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Low_Starfish_cy {
+	left: 1044px;
+	top: 2513px;
+	position: absolute;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Low_Starfish_cz {
+	left: 1044px;
+	top: 3225px;
+	position: absolute;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#n_95_c {
+	left: 1044px;
+	top: 412px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_95_da {
+	left: 1044px;
+	top: 1095px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_95_db {
+	left: 1044px;
+	top: 1807px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_95_dc {
+	left: 1044px;
+	top: 2532px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_95_dd {
+	left: 1044px;
+	top: 3244px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#f5799c348c936dd1d4b953e38b3e0f {
+	position: absolute;
+	width: 234px;
+	height: 183px;
+	left: 400px;
+	top: 489px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: 6_niche_and_cult__after.html;
+	cursor: pointer;
+}
+#f5799c348c936dd1d4b953e38b3e0f_c {
+	position: absolute;
+	width: 234px;
+	height: 183px;
+	left: 400px;
+	top: 1172px;
+	overflow: visible;
+}
+#f5799c348c936dd1d4b953e38b3e0f_da {
+	position: absolute;
+	width: 234px;
+	height: 183px;
+	left: 400px;
+	top: 1884px;
+	overflow: visible;
+}
+#f5799c348c936dd1d4b953e38b3e0f_db {
+	position: absolute;
+	width: 234px;
+	height: 183px;
+	left: 400px;
+	top: 2609px;
+	overflow: visible;
+}
+#f5799c348c936dd1d4b953e38b3e0f_dc {
+	position: absolute;
+	width: 234px;
+	height: 183px;
+	left: 400px;
+	top: 3321px;
+	overflow: visible;
+}
+#Jordan_1_Low_Fragment_x_T {
+	left: 420px;
+	top: 626px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Low_Fragment_x_T_db {
+	left: 420px;
+	top: 1309px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Low_Fragment_x_T_dc {
+	left: 420px;
+	top: 2021px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Low_Fragment_x_T_dd {
+	left: 420px;
+	top: 2746px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Low_Fragment_x_T_de {
+	left: 420px;
+	top: 3458px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#n_299 {
+	left: 420px;
+	top: 646px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_299_dg {
+	left: 420px;
+	top: 1329px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_299_dh {
+	left: 420px;
+	top: 2041px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_299_di {
+	left: 420px;
+	top: 2766px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_299_dj {
+	left: 420px;
+	top: 3478px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#Brand_new_dp {
+	left: 427px;
+	top: 616px;
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4px;
+	color: rgba(0,0,0,1);
+}
+#Brand_new_dq {
+	left: 427px;
+	top: 1299px;
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4px;
+	color: rgba(0,0,0,1);
+}
+#Brand_new_dr {
+	left: 427px;
+	top: 2011px;
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4px;
+	color: rgba(0,0,0,1);
+}
+#Brand_new_ds {
+	left: 427px;
+	top: 2736px;
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4px;
+	color: rgba(0,0,0,1);
+}
+#Brand_new_dt {
+	left: 427px;
+	top: 3448px;
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4px;
+	color: rgba(0,0,0,1);
+}
+#Brand_new_dp {
+	left: 427px;
+	top: 616px;
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4px;
+	color: rgba(0,0,0,1);
+}
+#Brand_new_dq {
+	left: 427px;
+	top: 1299px;
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4px;
+	color: rgba(0,0,0,1);
+}
+#Brand_new_dr {
+	left: 427px;
+	top: 2011px;
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4px;
+	color: rgba(0,0,0,1);
+}
+#Brand_new_ds {
+	left: 427px;
+	top: 2736px;
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4px;
+	color: rgba(0,0,0,1);
+}
+#Brand_new_dt {
+	left: 427px;
+	top: 3448px;
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 4px;
+	color: rgba(0,0,0,1);
+}
+#ab7a7e27da256782eabe5cc8f23020 {
+	position: absolute;
+	width: 136px;
+	height: 170px;
+	left: 723px;
+	top: 462px;
+	overflow: visible;
+}
+#ab7a7e27da256782eabe5cc8f23020_dv {
+	position: absolute;
+	width: 136px;
+	height: 170px;
+	left: 723px;
+	top: 1145px;
+	overflow: visible;
+}
+#ab7a7e27da256782eabe5cc8f23020_dw {
+	position: absolute;
+	width: 136px;
+	height: 170px;
+	left: 723px;
+	top: 1857px;
+	overflow: visible;
+}
+#ab7a7e27da256782eabe5cc8f23020_dx {
+	position: absolute;
+	width: 136px;
+	height: 170px;
+	left: 723px;
+	top: 2582px;
+	overflow: visible;
+}
+#ab7a7e27da256782eabe5cc8f23020_dy {
+	position: absolute;
+	width: 136px;
+	height: 170px;
+	left: 723px;
+	top: 3294px;
+	overflow: visible;
+}
+#Jordan_1_Retro_High_Travis {
+	left: 722px;
+	top: 622px;
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Retro_High_Travis_d {
+	left: 722px;
+	top: 1305px;
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Retro_High_Travis_ea {
+	left: 722px;
+	top: 2017px;
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Retro_High_Travis_eb {
+	left: 722px;
+	top: 2742px;
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Retro_High_Travis_ec {
+	left: 722px;
+	top: 3454px;
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#n_300 {
+	left: 722px;
+	top: 643px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_300_d {
+	left: 722px;
+	top: 1326px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_300_ea {
+	left: 722px;
+	top: 2038px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_300_eb {
+	left: 722px;
+	top: 2763px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_300_ec {
+	left: 722px;
+	top: 3475px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_00 {
+	left: 1034px;
+	top: 643px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_00_ea {
+	left: 1034px;
+	top: 1326px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_00_eb {
+	left: 1034px;
+	top: 2038px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_00_ec {
+	left: 1034px;
+	top: 2763px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_00_ed {
+	left: 1034px;
+	top: 3475px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_79a4847752c7bd5884d4d148b0ba {
+	position: absolute;
+	width: 233px;
+	height: 154px;
+	left: 1036px;
+	top: 462px;
+	overflow: visible;
+}
+#n_79a4847752c7bd5884d4d148b0ba_ef {
+	position: absolute;
+	width: 233px;
+	height: 154px;
+	left: 1036px;
+	top: 1145px;
+	overflow: visible;
+}
+#n_79a4847752c7bd5884d4d148b0ba_eg {
+	position: absolute;
+	width: 233px;
+	height: 154px;
+	left: 1036px;
+	top: 1857px;
+	overflow: visible;
+}
+#n_79a4847752c7bd5884d4d148b0ba_eh {
+	position: absolute;
+	width: 233px;
+	height: 154px;
+	left: 1036px;
+	top: 2582px;
+	overflow: visible;
+}
+#n_79a4847752c7bd5884d4d148b0ba_ei {
+	position: absolute;
+	width: 233px;
+	height: 154px;
+	left: 1036px;
+	top: 3294px;
+	overflow: visible;
+}
+#Jordan_1_Retro_AJKO_Storm {
+	left: 1036px;
+	top: 622px;
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Retro_AJKO_Storm_ek {
+	left: 1036px;
+	top: 1305px;
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Retro_AJKO_Storm_el {
+	left: 1036px;
+	top: 2017px;
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Retro_AJKO_Storm_em {
+	left: 1036px;
+	top: 2742px;
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Jordan_1_Retro_AJKO_Storm_en {
+	left: 1036px;
+	top: 3454px;
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#n_0e7509d3c6678cebc5d4029b0519 {
+	position: absolute;
+	width: 198px;
+	height: 133px;
+	left: 420px;
+	top: 707px;
+	overflow: visible;
+}
+#n_0e7509d3c6678cebc5d4029b0519_ep {
+	position: absolute;
+	width: 198px;
+	height: 133px;
+	left: 420px;
+	top: 1390px;
+	overflow: visible;
+}
+#n_0e7509d3c6678cebc5d4029b0519_eq {
+	position: absolute;
+	width: 198px;
+	height: 133px;
+	left: 420px;
+	top: 2102px;
+	overflow: visible;
+}
+#n_0e7509d3c6678cebc5d4029b0519_er {
+	position: absolute;
+	width: 198px;
+	height: 133px;
+	left: 420px;
+	top: 2827px;
+	overflow: visible;
+}
+#n_0e7509d3c6678cebc5d4029b0519_es {
+	position: absolute;
+	width: 198px;
+	height: 133px;
+	left: 420px;
+	top: 3539px;
+	overflow: visible;
+}
+#adidas_Yeezy_Slide_Glow_G {
+	left: 420px;
+	top: 845px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#adidas_Yeezy_Slide_Glow_G_eu {
+	left: 420px;
+	top: 1528px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#adidas_Yeezy_Slide_Glow_G_ev {
+	left: 420px;
+	top: 2240px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#adidas_Yeezy_Slide_Glow_G_ew {
+	left: 420px;
+	top: 2965px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#adidas_Yeezy_Slide_Glow_G_ex {
+	left: 420px;
+	top: 3677px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#n_77 {
+	left: 420px;
+	top: 863px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_77_ez {
+	left: 420px;
+	top: 1546px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_77_e {
+	left: 420px;
+	top: 2258px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_77_fa {
+	left: 420px;
+	top: 2983px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_77_fb {
+	left: 420px;
+	top: 3695px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#ebac8a39c604622c028d0a91b9b6e4 {
+	position: absolute;
+	width: 205px;
+	height: 133px;
+	left: 722px;
+	top: 707px;
+	overflow: visible;
+}
+#ebac8a39c604622c028d0a91b9b6e4_e {
+	position: absolute;
+	width: 205px;
+	height: 133px;
+	left: 722px;
+	top: 1390px;
+	overflow: visible;
+}
+#ebac8a39c604622c028d0a91b9b6e4_fa {
+	position: absolute;
+	width: 205px;
+	height: 133px;
+	left: 722px;
+	top: 2102px;
+	overflow: visible;
+}
+#ebac8a39c604622c028d0a91b9b6e4_fb {
+	position: absolute;
+	width: 205px;
+	height: 133px;
+	left: 722px;
+	top: 2827px;
+	overflow: visible;
+}
+#ebac8a39c604622c028d0a91b9b6e4_fc {
+	position: absolute;
+	width: 205px;
+	height: 133px;
+	left: 722px;
+	top: 3539px;
+	overflow: visible;
+}
+#adidas_Yeezy_Boost_700_M {
+	left: 722px;
+	top: 845px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#adidas_Yeezy_Boost_700_M_e {
+	left: 722px;
+	top: 1528px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#adidas_Yeezy_Boost_700_M_fa {
+	left: 722px;
+	top: 2240px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#adidas_Yeezy_Boost_700_M_fb {
+	left: 722px;
+	top: 2965px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#adidas_Yeezy_Boost_700_M_fc {
+	left: 722px;
+	top: 3677px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#n_70 {
+	left: 722px;
+	top: 863px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_70_fe {
+	left: 722px;
+	top: 1546px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_70_ff {
+	left: 722px;
+	top: 2258px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_70_fg {
+	left: 722px;
+	top: 2983px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_70_fh {
+	left: 722px;
+	top: 3695px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#b4c89894f680b0ef380fc868a7700f {
+	position: absolute;
+	width: 211px;
+	height: 133px;
+	left: 1031px;
+	top: 707px;
+	overflow: visible;
+}
+#b4c89894f680b0ef380fc868a7700f_fj {
+	position: absolute;
+	width: 211px;
+	height: 133px;
+	left: 1031px;
+	top: 1390px;
+	overflow: visible;
+}
+#b4c89894f680b0ef380fc868a7700f_fk {
+	position: absolute;
+	width: 211px;
+	height: 133px;
+	left: 1031px;
+	top: 2102px;
+	overflow: visible;
+}
+#b4c89894f680b0ef380fc868a7700f_fl {
+	position: absolute;
+	width: 211px;
+	height: 133px;
+	left: 1031px;
+	top: 2827px;
+	overflow: visible;
+}
+#b4c89894f680b0ef380fc868a7700f_fm {
+	position: absolute;
+	width: 211px;
+	height: 133px;
+	left: 1031px;
+	top: 3539px;
+	overflow: visible;
+}
+#adidas_Yeezy_Boost_350_V {
+	left: 1031px;
+	top: 842px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#adidas_Yeezy_Boost_350_V_fo {
+	left: 1031px;
+	top: 1525px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#adidas_Yeezy_Boost_350_V_fp {
+	left: 1031px;
+	top: 2237px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#adidas_Yeezy_Boost_350_V_fq {
+	left: 1031px;
+	top: 2962px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#adidas_Yeezy_Boost_350_V_fr {
+	left: 1031px;
+	top: 3674px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#n_10_ {
+	left: 1031px;
+	top: 863px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_10__ft {
+	left: 1031px;
+	top: 1546px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_10__fu {
+	left: 1031px;
+	top: 2258px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_10__fv {
+	left: 1031px;
+	top: 2983px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#n_10__fw {
+	left: 1031px;
+	top: 3695px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Brother 1816;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#Scroll_Group_5 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 278px;
+	height: 518px;
+	left: 13px;
+	top: 246px;
+	overflow: hidden;
+}
+#Scroll_Group_4 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 278px;
+	height: 1717px;
+	left: 0px;
+	top: 13px;
+	overflow: hidden;
+}
+#Scroll_Group_3 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 278px;
+	height: 1681px;
+	left: 0px;
+	top: -14px;
+	overflow: hidden;
+}
+#Rectangle_2161 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(224,224,224,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2161 {
+	position: absolute;
+	overflow: visible;
+	width: 278px;
+	height: 1681px;
+	left: 0px;
+	top: 0px;
+}
+#Lifestyle {
+	left: 33px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Running {
+	left: 33px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Basketball {
+	left: 33px;
+	top: 108px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Football {
+	left: 33px;
+	top: 156px;
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Training__Gym {
+	left: 33px;
+	top: 204px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Jordans_ {
+	left: 33px;
+	top: 252px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Skateboarding_ {
+	left: 33px;
+	top: 300px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Golf {
+	left: 33px;
+	top: 348px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Tennis_ {
+	left: 34px;
+	top: 396px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Athletics_ {
+	left: 34px;
+	top: 480px;
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Walking_ {
+	left: 33px;
+	top: 440px;
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Men {
+	left: 58px;
+	top:900px;
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Women {
+	left: 58px;
+	top: 685px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Kids__ge {
+	left: 58px;
+	top: 723px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Gender_1 {
+	left: 33px;
+	top: 597px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Sizes {
+	left: 33px;
+	top: 791px;
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Line_4 {
+	opacity: 0.22;
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 241.008px;
+	height: 3px;
+	left: 18.5px;
+	top: 562.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_5 {
+	opacity: 0.22;
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 241.008px;
+	height: 3px;
+	left: 17px;
+	top: 763.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_2162 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2162 {
+	position: absolute;
+	overflow: visible;
+	width: 27px;
+	height: 27px;
+	left: 17px;
+	top: 648px;
+}
+#Rectangle_2163 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_2163 {
+	position: absolute;
+	overflow: visible;
+	width: 27px;
+	height: 27px;
+	left: 17px;
+	top: 684px;
+	fill: rgba(0,0,0,1);
+}
+#Rectangle_2194 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+	
+}
+.Rectangle_2194 {
+	position: absolute;
+	overflow: visible;
+	width: 27px;
+	height: 27px;
+	left: 17px;
+	top: 722px;
+	
+}
+#Rectangle_2164 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2164 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 17px;
+	top: 851px;
+}
+#Rectangle_2193 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_2193 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 17px;
+	top: 1131px;
+	fill: rgba(0,0,0,1);
+}
+#Rectangle_2165 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2165 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 110px;
+	top: 851px;
+}
+#Rectangle_2192 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2192 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 110px;
+	top: 1131px;
+}
+#Rectangle_2166 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2166 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 197px;
+	top: 851px;
+}
+#Rectangle_2191 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2191 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 197px;
+	top: 1131px;
+}
+#Rectangle_2167 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2167 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 17px;
+	top: 907px;
+}
+#Rectangle_2190 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2190 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 17px;
+	top: 1187px;
+}
+#Rectangle_2168 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2168 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 110px;
+	top: 907px;
+}
+#Rectangle_2189 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2189 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 110px;
+	top: 1187px;
+}
+#Rectangle_2169 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2169 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 197px;
+	top: 907px;
+}
+#Rectangle_2188 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2188 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 197px;
+	top: 1187px;
+}
+#Rectangle_2170 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2170 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 17px;
+	top: 963px;
+}
+#Rectangle_2187 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2187 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 17px;
+	top: 1243px;
+}
+#Rectangle_2171 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2171 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 110px;
+	top: 963px;
+}
+#Rectangle_2186 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2186 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 110px;
+	top: 1243px;
+}
+#Rectangle_2172 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2172 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 197px;
+	top: 963px;
+}
+#Rectangle_2185 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2185 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 197px;
+	top: 1243px;
+}
+#Rectangle_2173 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2173 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 17px;
+	top: 1019px;
+}
+#Rectangle_2184 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2184 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 17px;
+	top: 1299px;
+}
+#Rectangle_2174 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2174 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 197px;
+	top: 1019px;
+}
+#Rectangle_2183 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2183 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 197px;
+	top: 1299px;
+}
+#Rectangle_2176 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2176 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 17px;
+	top: 1075px;
+}
+#Rectangle_2182 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2182 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 17px;
+	top: 1355px;
+}
+#Rectangle_2177 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2177 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 110px;
+	top: 1075px;
+}
+#Rectangle_2181 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2181 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 110px;
+	top: 1355px;
+}
+#Rectangle_2178 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2178 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 197px;
+	top: 1075px;
+}
+#Rectangle_2180 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2180 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 197px;
+	top: 1355px;
+}
+#Rectangle_2175 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2175 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 110px;
+	top: 1019px;
+}
+#Rectangle_2179 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2179 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 110px;
+	top: 1299px;
+}
+#n_55 {
+	left: 29px;
+	top: 855px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hh {
+	left: 29px;
+	top: 1135px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hi {
+	left: 122px;
+	top: 855px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hj {
+	left: 122px;
+	top: 1135px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hk {
+	left: 209px;
+	top: 855px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hl {
+	left: 209px;
+	top: 1135px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hm {
+	left: 29px;
+	top: 911px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hn {
+	left: 29px;
+	top: 1191px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_ho {
+	left: 122px;
+	top: 911px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hp {
+	left: 122px;
+	top: 1191px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hq {
+	left: 209px;
+	top: 911px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hr {
+	left: 209px;
+	top: 1191px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hs {
+	left: 29px;
+	top: 967px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_ht {
+	left: 29px;
+	top: 1247px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hu {
+	left: 122px;
+	top: 967px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hv {
+	left: 122px;
+	top: 1247px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hw {
+	left: 209px;
+	top: 967px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hx {
+	left: 209px;
+	top: 1247px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hy {
+	left: 29px;
+	top: 1023px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hz {
+	left: 29px;
+	top: 1303px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_h {
+	left: 122px;
+	top: 1023px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_ia {
+	left: 122px;
+	top: 1303px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_ib {
+	left: 209px;
+	top: 1023px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_ic {
+	left: 209px;
+	top: 1303px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_id {
+	left: 29px;
+	top: 1079px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_ie {
+	left: 29px;
+	top: 1359px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_if {
+	left: 122px;
+	top: 1079px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_ig {
+	left: 122px;
+	top: 1359px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_ih {
+	left: 209px;
+	top: 1079px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_ii {
+	left: 209px;
+	top: 1359px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+
+
+#Scroll_Group_5 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 278px;
+	height: 3531px;
+	left: 13px;
+	top: 246px;
+	overflow: hidden;
+}
+#Scroll_Group_4 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 278px;
+	height: 1717px;
+	left: 0px;
+	top: 13px;
+	overflow: hidden;
+}
+#Scroll_Group_3 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 278px;
+	height: 1681px;
+	left: 0px;
+	top: -14px;
+	overflow: hidden;
+}
+#Rectangle_2161 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(224,224,224,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2161 {
+	position: absolute;
+	overflow: visible;
+	width: 278px;
+	height: 1681px;
+	left: 0px;
+	top: 0px;
+}
+#Lifestyle {
+	left: 33px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Running {
+	left: 33px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Basketball {
+	left: 33px;
+	top: 108px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Football {
+	left: 33px;
+	top: 156px;
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Training__Gym {
+	left: 33px;
+	top: 204px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Jordans_ {
+	left: 33px;
+	top: 252px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Skateboarding_ {
+	left: 33px;
+	top: 300px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Golf {
+	left: 33px;
+	top: 348px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Tennis_ {
+	left: 34px;
+	top: 396px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Athletics_ {
+	left: 34px;
+	top: 444px;
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Walking_ {
+	left: 33px;
+	top: 492px;
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Men {
+	left: 58px;
+	top: 649px;
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Women {
+	left: 58px;
+	top: 685px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Kids__ge {
+	left: 58px;
+	top: 723px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Gender_1 {
+	left: 33px;
+	top: 597px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Sizes {
+	left: 33px;
+	top: 791px;
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Line_4 {
+	opacity: 0.22;
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 241.008px;
+	height: 3px;
+	left: 18.5px;
+	top: 562.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_5 {
+	opacity: 0.22;
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 241.008px;
+	height: 3px;
+	left: 17px;
+	top: 763.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_2162 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2162 {
+	position: absolute;
+	overflow: visible;
+	width: 27px;
+	height: 27px;
+	left: 17px;
+	top: 648px;
+}
+#Rectangle_2163 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_2163 {
+	position: absolute;
+	overflow: visible;
+	width: 27px;
+	height: 27px;
+	left: 17px;
+	top: 684px;
+	fill: rgba(0,0,0,1);
+}
+#Rectangle_2194 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_2194 {
+	position: absolute;
+	overflow: visible;
+	width: 27px;
+	height: 27px;
+	left: 17px;
+	top: 722px;
+}
+#Rectangle_2164 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2164 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 17px;
+	top: 851px;
+}
+#Rectangle_2193 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+	/* fill: rgba(0,0,0,1); */
+}
+.Rectangle_2193 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 17px;
+	top: 1131px;
+	fill: rgba(0,0,0,1);
+}
+#Rectangle_2165 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2165 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 110px;
+	top: 851px;
+}
+#Rectangle_2192 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2192 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 110px;
+	top: 1131px;
+}
+#Rectangle_2166 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2166 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 197px;
+	top: 851px;
+}
+#Rectangle_2191 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2191 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 197px;
+	top: 1131px;
+}
+#Rectangle_2167 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2167 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 17px;
+	top: 907px;
+}
+#Rectangle_2190 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2190 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 17px;
+	top: 1187px;
+}
+#Rectangle_2168 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2168 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 110px;
+	top: 907px;
+}
+#Rectangle_2189 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2189 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 110px;
+	top: 1187px;
+}
+#Rectangle_2169 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2169 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 197px;
+	top: 907px;
+}
+#Rectangle_2188 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2188 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 197px;
+	top: 1187px;
+}
+#Rectangle_2170 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2170 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 17px;
+	top: 963px;
+}
+#Rectangle_2187 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2187 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 17px;
+	top: 1243px;
+}
+#Rectangle_2171 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2171 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 110px;
+	top: 963px;
+}
+#Rectangle_2186 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2186 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 110px;
+	top: 1243px;
+}
+#Rectangle_2172 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2172 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 197px;
+	top: 963px;
+}
+#Rectangle_2185 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2185 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 197px;
+	top: 1243px;
+}
+#Rectangle_2173 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2173 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 17px;
+	top: 1019px;
+}
+#Rectangle_2184 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2184 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 17px;
+	top: 1299px;
+}
+#Rectangle_2174 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2174 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 197px;
+	top: 1019px;
+}
+#Rectangle_2183 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2183 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 197px;
+	top: 1299px;
+}
+#Rectangle_2176 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2176 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 17px;
+	top: 1075px;
+}
+#Rectangle_2182 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2182 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 17px;
+	top: 1355px;
+}
+#Rectangle_2177 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2177 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 110px;
+	top: 1075px;
+}
+#Rectangle_2181 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2181 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 110px;
+	top: 1355px;
+}
+#Rectangle_2178 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2178 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 197px;
+	top: 1075px;
+}
+#Rectangle_2180 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2180 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 197px;
+	top: 1355px;
+}
+#Rectangle_2175 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2175 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 110px;
+	top: 1019px;
+}
+#Rectangle_2179 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2179 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 39px;
+	left: 110px;
+	top: 1299px;
+}
+#n_55 {
+	left: 29px;
+	top: 855px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hh {
+	left: 29px;
+	top: 1135px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hi {
+	left: 122px;
+	top: 855px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hj {
+	left: 122px;
+	top: 1135px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hk {
+	left: 209px;
+	top: 855px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hl {
+	left: 209px;
+	top: 1135px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hm {
+	left: 29px;
+	top: 911px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hn {
+	left: 29px;
+	top: 1191px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_ho {
+	left: 122px;
+	top: 911px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hp {
+	left: 122px;
+	top: 1191px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hq {
+	left: 209px;
+	top: 911px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hr {
+	left: 209px;
+	top: 1191px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hs {
+	left: 29px;
+	top: 967px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_ht {
+	left: 29px;
+	top: 1247px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hu {
+	left: 122px;
+	top: 967px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hv {
+	left: 122px;
+	top: 1247px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hw {
+	left: 209px;
+	top: 967px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hx {
+	left: 209px;
+	top: 1247px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hy {
+	left: 29px;
+	top: 1023px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_hz {
+	left: 29px;
+	top: 1303px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_h {
+	left: 122px;
+	top: 1023px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_ia {
+	left: 122px;
+	top: 1303px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_ib {
+	left: 209px;
+	top: 1023px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_ic {
+	left: 209px;
+	top: 1303px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_id {
+	left: 29px;
+	top: 1079px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_ie {
+	left: 29px;
+	top: 1359px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_if {
+	left: 122px;
+	top: 1079px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_ig {
+	left: 122px;
+	top: 1359px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_ih {
+	left: 209px;
+	top: 1079px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#n_55_ii {
+	left: 209px;
+	top: 1359px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nirmala UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+
+
+.Search1{
+	height: 30px;
+	width: 140px;
+	margin-top: -9px;
+	margin-left: -5px;
+	border: none;
+	border-radius: 20px;
+	border-color: white;
+
+	
+}
+
+/**/
+/* width */
+::-webkit-scrollbar {
+	width: 15px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+	box-shadow: inset 0 0 5px grey; 
+	/* border-radius: 10px; */
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+	background: rgb(0, 0, 0); 
+	/* border-radius: 10px; */
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+	background: #ff0066; 
+  }
